@@ -29,4 +29,4 @@ In addition to the world of programming, I have other interests:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleysilva25&show_icons=true&locale=en&layout=compact" alt="wesleysilva25" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wesleysilva25&show_icons=true&locale=en" alt="wesleysilva25" /></p>
-![Snake animation](https://github.com/toshiossada/toshiossada/blob/output/github-contribution-grid-snake.svg)
+
