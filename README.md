@@ -2,6 +2,7 @@
 <h3 align="center">Welcome to my github profile</h3>
 
 I'm currently a back-end development student with a passion for code, music, and animals. Although my journey began with dreams of becoming a veterinarian, I ended up following a different and exciting path into the world of technology
+<img align="right" src="https://jovemnerd.com.br/wp-content/uploads/2016/11/typing.gif" width="50%"/>
 
 ## Interests
 
