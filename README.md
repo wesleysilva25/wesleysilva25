@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Wesley</h1>
 <h3 align="center">Welcome to my github profile</h3>
 
+I'm currently a back-end development student with a passion for code, music, and animals. Although my journey began with dreams of becoming a veterinarian, I ended up following a different and exciting path into the world of technology
+
+## Interests
+
+In addition to the world of programming, I have other interests:
+
+- 🎵 Explore new rock and metal bands
+- 🐶 Support causes related to animal welfare
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleysilva25&label=Profile%20views&color=0e75b6&style=flat" alt="wesleysilva25" /> </p>
 
 - 🌱 I’m currently learning **Back-end Developer at Cubos Academy**
